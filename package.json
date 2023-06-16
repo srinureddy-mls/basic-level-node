@@ -1,0 +1,15 @@
+{
+  "name": "basiclevel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Http.js",
+  "scripts": {
+    "start": "node Http.js",
+    "server": "nodemon Http.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
